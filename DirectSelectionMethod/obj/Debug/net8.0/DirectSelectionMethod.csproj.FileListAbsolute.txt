@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\bin\Debug\net8.0\DirectSelectionMethod.exe
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\bin\Debug\net8.0\DirectSelectionMethod.deps.json
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\bin\Debug\net8.0\DirectSelectionMethod.runtimeconfig.json
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\bin\Debug\net8.0\DirectSelectionMethod.dll
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\bin\Debug\net8.0\DirectSelectionMethod.pdb
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\obj\Debug\net8.0\DirectSelectionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\obj\Debug\net8.0\DirectSelectionMethod.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\obj\Debug\net8.0\DirectSelectionMethod.AssemblyInfo.cs
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\obj\Debug\net8.0\DirectSelectionMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\obj\Debug\net8.0\DirectSelectionMethod.dll
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\obj\Debug\net8.0\refint\DirectSelectionMethod.dll
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\obj\Debug\net8.0\DirectSelectionMethod.pdb
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\obj\Debug\net8.0\DirectSelectionMethod.genruntimeconfig.cache
+C:\Users\User\source\repos\Domashna2.27.24\DirectSelectionMethod\obj\Debug\net8.0\ref\DirectSelectionMethod.dll
